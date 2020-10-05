@@ -8,4 +8,4 @@ This dataset contains brain MR images together with manual FLAIR abnormality seg
 The images were obtained from The Cancer Imaging Archive (TCIA).
 They correspond to 110 patients included in The Cancer Genome Atlas (TCGA) lower-grade glioma collection with at least fluid-attenuated inversion recovery (FLAIR) sequence and genomic cluster data available.
 ## Some Of Our Model's Predictions
-![alt text](http://uupload.ir/files/bmww_p_final.png)
+![alt text](http://uupload.ir/files/bmob_bmww_p_final.png)
