@@ -1,5 +1,5 @@
 # Brain-Tumor-Segmentation-for-MRI-using-Keras
-![alt text](http://uupload.ir/files/c0aj_seg.png)
+![alt text](https://uupload.ir/files/ygs_c0aj_seg.png)
 Segmentation is the process of finding the boundaries of various tissues and Image Segmentation plays a vital role in medical imaging applications.
 In this project I've used U-Net architecture which is one of the popular architectures for segmentation.
 ## Dataset
